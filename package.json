@@ -57,7 +57,7 @@
         "babel-runtime": "^6.6.1",
         "minimatch": "^3.0.4",
         "nuclear-js": "^1.4.0",
-        "pug": "^2.0.0-rc.2",
+        "pug": "^3.0.1",
         "webpack": "^3.0.0"
     }
 }
